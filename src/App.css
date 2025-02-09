@@ -1,0 +1,34 @@
+.app-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#counter {
+  font-size: 24px;
+  margin: 20px;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px 20px;
+  display: block;
+  margin: 10px auto;
+  border-radius: 15px;
+  color:rgb(230, 244, 244);
+  background-color:rgb(6, 85, 171) ;
+}
+
+button:hover {
+  color: rgb(246, 235, 235);
+  background-color: rgb(6, 85, 171);
+  border-radius: 15px 25px;
+  box-shadow: black 12px 5px 10px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
