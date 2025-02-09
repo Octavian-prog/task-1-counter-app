@@ -19,6 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://Octavian-prog.github.io/task-1-counter-app",
   "eslintConfig": {
     "extends": [
       "react-app",
